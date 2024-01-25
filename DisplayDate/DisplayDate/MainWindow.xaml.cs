@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -23,6 +24,12 @@ namespace DisplayDate
         public MainWindow()
         {
             InitializeComponent();
+
+            DateTime currentTime = DateTime.Now;
+            string formattedTime = currentTime.ToString("HH:mm:ss");
+            string formattedDate = currentTime.ToString("dd.MM.yyyy");
+
+            myLabel.Content = "Current time: " + formattedTime + ", Current date: " + formattedDate;
 
         }
     }
