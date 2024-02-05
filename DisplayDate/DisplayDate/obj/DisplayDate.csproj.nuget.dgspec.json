@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {}
+    "C:\\Users\\user1\\Desktop\\לימודים חרבות ברזל\\c#\\שיעור 17 גיט\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים חרבות ברזל\\c#\\שיעור 17 גיט\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים חרבות ברזל\\c#\\שיעור 17 גיט\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
         "projectName": "DisplayDate",
-        "projectPath": "C:\\Users\\user1\\Desktop\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים חרבות ברזל\\c#\\שיעור 17 גיט\\git\\DisplayDate\\DisplayDate\\DisplayDate.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\git\\DisplayDate\\DisplayDate\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים חרבות ברזל\\c#\\שיעור 17 גיט\\git\\DisplayDate\\DisplayDate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
